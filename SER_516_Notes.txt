@@ -1,0 +1,54 @@
+User Stories
+
+I - Independent
+N - Negotialble
+V - Valuable
+E - Estimable
+S - Small
+T - Testable
+
+
+Chapter 5 Requirement and User Stories
+
+PBI's (Placeholder for requirment)
+
+Timely conversation
+Progressive Refinement
+
+User Stories
+	- Coversation - Built using lot of conversation which refine it eventually
+	- Confirmation - Acceptance criteria and tests
+	- Level of details - Epics -> user stories, 
+
+Epics takes months 
+features takes weeks longer than sprint
+Stories takes weeks and are that small that can be included in a sprint
+
+Not all user stories are independent or negotiable, but they must be valuable
+I - goal is not to eliminate but to reduce interdependencies
+N - should be about what and why not how
+V - Not be technical
+E - Not be ambigouis and must be estimable
+S - Small enought complete in one sprint
+T - either pass or fail
+
+
+If very technical product owner will not be able to understand it and prioritize it.
+
+Chapter 6
+
+
+
+
+
+Product Owner 
+the product owner is the person who represents the customers or users wants and desires (goals and visions). The product owner is usually a key individual who may in many instances control the funding for the project to be developed, or if he or she doesn’t control funding, is responsible to those who do for delivering their visions in a way their return on investment is maximized.
+a product owner is the leader responsible for maximizing the value of the products created by a scrum development team.
+But to do this, an agile product owner takes on several roles, including business strategist, product designer, market analyst, customer liaison, and project manager.
+Roles and Responsibilities
+	- Defining Vision
+	- Managing Product Backlog and Prioritizing it 
+	- Prioritizing needs
+	- Overseeing development stages
+	- Anticipating Client Needs
+	-  
