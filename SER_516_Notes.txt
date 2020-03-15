@@ -1,3 +1,23 @@
+Total Slides till date
+
+Slide
+
+Slide 1		
+Slide 2
+Slide 3
+Slide 4		Done (Nothing)
+Slide 5		Done
+Slide 6		Done (Nothing)
+Slide 7		Done (Chapter 5 and 6 of Scrum Essential)
+Slide 8		Done (Chapter 5 and 6 of Scrum Essential)
+Slide 14	Done (Project detail nothing much)
+Slide 15	Done (Chapter 11 Clean Code)
+
+
+
+
+
+
 User Stories
 
 I - Independent
