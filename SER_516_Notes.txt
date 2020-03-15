@@ -32,8 +32,12 @@ E - Not be ambigouis and must be estimable
 S - Small enought complete in one sprint
 T - either pass or fail
 
+We also employ a strategy of progressively refining larger, less detailed stories into smaller, more detailed stories in a just-in-time fashion.
+
 
 If very technical product owner will not be able to understand it and prioritize it.
+business value of any technical story has to be justifiable to the prod- uct owner. Because product owners think in economic terms, there needs to be an economic justification for doing this prototyping work
+
 
 Chapter 6
 
@@ -51,4 +55,3 @@ Roles and Responsibilities
 	- Prioritizing needs
 	- Overseeing development stages
 	- Anticipating Client Needs
-	-  
