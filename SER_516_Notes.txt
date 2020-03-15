@@ -39,11 +39,26 @@ If very technical product owner will not be able to understand it and prioritize
 business value of any technical story has to be justifiable to the prod- uct owner. Because product owners think in economic terms, there needs to be an economic justification for doing this prototyping work
 
 
-Chapter 6
+Chapter 6 Product Backlog - DEEP
+
+PBI
+	- Defect
+	- Features
+	- Technical Work
+	- Knowledge Acquisition
+
+DEEP
+	D - Detailed Appropriately
+	E - Emergent - constantly emerging, product owner must rebal- ance and reprioritize the product backlog, taking the new information into account
+	E - Estimated
+	P - Prioritized
+
+Grooming - creating and refining (adding details to) PBIs, estimating PBIs, and prioritizing PBIs.
+Product owner take help from stake holder and development team to do grooming.
 
 
-
-
+Because items near the top of the backlog are smaller and more detailed, they will have smaller, more accurate size estimates
+It is useful to prioritize the near-term items that are destined for the next few sprints. Perhaps it is valuable to prioritize as far down in the backlog as we think we can get in Release 1.
 
 Product Owner 
 the product owner is the person who represents the customers or users wants and desires (goals and visions). The product owner is usually a key individual who may in many instances control the funding for the project to be developed, or if he or she doesn’t control funding, is responsible to those who do for delivering their visions in a way their return on investment is maximized.
