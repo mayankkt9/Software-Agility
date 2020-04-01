@@ -1,0 +1,89 @@
+To Study
+
+Material Given
+Project Details
+QuizLet.com
+LockDown browser try
+Consider reading slides and notes once again after you have completed everything
+
+
+Material
+
+Slide 2		Process Model & Agile		Som(2,3)
+Slide 3 	Agile and Project			Som(3,4) 	
+Slide 4 	Agile and Project			Som(3,4)
+Slide 5		Clean Code					Martin
+Slide 6		Clean Code					Martin
+Slide 7		PBI | User Story			Rubin(5,6)
+Slide 8 	User Story					Rubin(4)
+Slide 9		Product Backlog				Rubin(6)
+Slide 10	Sprint						Rubin(4)
+Slide 11 	Clean Code					Martin
+Slide 12 	Clean Code					Martin
+Slide 13	Project	
+Slide 14	Project
+Slide 15	Clean Design				Martin(11)
+Slide 16	Velocity					Rubin(7)
+
+Project
+
+
+
+Read Slides 2,3,4 and these notes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Process Model
+
+Types of Process Model
+	- Agile
+	- Prototype
+		- instead of freezing the requirements before a design or coding can proceed, a throwaway prototype is built to understand the requirements. 
+		- The Prototyping Model should be used when the requirements of the product are not clearly understood or are unstable. It can also be used if requirements are changing quickly. This model can be successfully used for developing user interfaces, high technology software-intensive systems, and systems with complex algorithms and interfaces. It is also a very good choice to demonstrate the technical feasibility of the product.
+		- Missing functionality can be identified, which helps to reduce the risk of failure as Prototyping is also considered as a risk reduction activity in SDLC.
+		- In prototype model we take user requirements. Prototypes are build. User feedback is available .Prototype model is like making E-COMMERCE websites.Other applications for which prototyping is applicable are certain classes of mathematical algorithms, subset of command driven systems and other applications where results can be easily examined without real-time interaction.However this model is not suitable for large heavy requirements or complex embedded system.
+		- Desgin, Diagrams, UI, Feasibility check
+	- Spiral
+		- When costs and risk evaluation is important
+		- For medium to high-risk projects
+		- Long-term project commitment unwise because of potential changes to economic priorities
+		- Users are unsure of their needs
+		- Requirements are complex
+		- New product line
+		- Significant changes are expected (research and exploration)
+	- V-Model
+		- Where requirements are clearly defined and fixed.
+		- The V-Model is used when ample technical resources are available with technical expertise.
+		- It is not a good for complex and object-oriented projects.
+		- This model focuses on verification and validation activities early in the life cycle thereby enhancing the probability of building an error-free and good quality product.
+
+	- Waterfall
+
+Incremental Model - There are some types of system where incremental development and delivery is
+not the best approach. These are very large systems where development may involve teams working in different locations, some embedded systems where the software depends on hardware development and some critical systems where all the require- ments must be analyzed to check for interactions that may compromise the safety or security of the system.
+
+These plan-driven approaches involve a significant overhead in planning, designing, and document- ing the system. This overhead is justified when the work of multiple development teams has to be coordinated, when the system is a critical system, and when many different people will be involved in maintaining the software over its lifetime.
+
+Agile Manifesto
+Individuals and interactions over processes and tools 
+Working software over comprehensive documentation 
+Customer collaboration over contract negotiation 
+Responding to change over following a plan
+
+Agile methods have been very successful for some types of system development:
+1. Product development where a software company is developing a small or medium-sized product for sale.
+2. Custom system development within an organization, where there is a clear com- mitment from the customer to become involved in the development process and where there are not a lot of external rules and regulations that affect the software.
+Formal documentation is supposed to describe the system and so make it easier
+for people changing the system to understand. In practice, however, formal docu- mentation is often not kept up to date and so does not accurately reflect the program code. For this reason, agile methods enthusiasts argue that it is a waste of time to write this documentation and that the key to implementing maintainable software is to produce high-quality, readable code. Agile practices therefore emphasize the importance of writing well-structured code and investing effort in code improve- ment. Therefore, the lack of documentation should not be a problem in maintaining systems developed using an agile approach.
+
+
+In a plan-driven approach, iteration occurs within activities with formal documents used to communicate between stages of the process. For example, the require- ments will evolve and, ultimately, a requirements specification will be produced. This is then an input to the design and implementation process. In an agile approach, iteration occurs across activities. Therefore, the requirements and the design are developed together, rather than separately.
+
+
+Only difference between plan driven and Agile is detailed documentation
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
