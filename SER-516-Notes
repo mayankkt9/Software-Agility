@@ -6,15 +6,20 @@ QuizLet.com
 LockDown browser try
 Consider reading slides and notes once again after you have completed everything
 
+Application based question
+	- Write User Story Error Free
+	- Check Coding guideline and all
+
+
 
 Material
 
-Slide 2		Process Model & Agile		Som(2,3)
-Slide 3 	Agile and Project			Som(3,4) 	
-Slide 4 	Agile and Project			Som(3,4)
+Slide 2		Process Model & Agile		Som(2,3)		Done
+Slide 3 	Agile and Project			Som(3,4) 		Done
+Slide 4 	Agile and Project			Som(3,4)		Done
 Slide 5		Clean Code					Martin
 Slide 6		Clean Code					Martin
-Slide 7		PBI | User Story			Rubin(5,6)
+Slide 7		PBI | User Story			Rubin(5,6)		
 Slide 8 	User Story					Rubin(4)
 Slide 9		Product Backlog				Rubin(6)
 Slide 10	Sprint						Rubin(4)
@@ -141,3 +146,33 @@ Sprint Characteristic
 		- Checkpoint
 		- Fast Feedback
 		- ROI
+
+
+
+
+
+
+
+
+
+
+
+
+Product Backlog
+
+
+Types of Product BackLog Items
+	- Feature 
+		- As a customer service representative I want to create a ticket for a customer support issue so that I can record and manage a customer’s request for support.
+	- Change 
+		- As a customer service representative I want the default ordering of search results to be by last name instead of ticket number so that it’s easier to find a support ticket.
+	- Defect
+		- Fix defect #256 in the defect-tracking system so that special characters in search terms won’t make customer searches crash.
+	- Technical Improvement
+		- Move to the latest version of the Oracle DBMS.
+	- Knowledge Acquisition 
+		- Create a prototype or proof of concept of two architectures and run three tests to determine which would be a better approach for our product.
+
+User Stories consists (user stories), (testing/bug),(design,process stuff,deployment process), Knowledge Acquisition
+
+
