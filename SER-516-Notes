@@ -19,10 +19,10 @@ Slide 3 	Agile and Project			Som(3,4) 		Done
 Slide 4 	Agile and Project			Som(3,4)		Done
 Slide 5		Clean Code					Martin
 Slide 6		Clean Code					Martin
-Slide 7		PBI | User Story			Rubin(5,6)		
-Slide 8 	User Story					Rubin(4)
-Slide 9		Product Backlog				Rubin(6)
-Slide 10	Sprint						Rubin(4)
+Slide 7		PBI | User Story			Rubin(5,6)		Done
+Slide 8 	User Story					Rubin(4)		Done
+Slide 9		Product Backlog				Rubin(6)		Done
+Slide 10	Sprint						Rubin(4)		Done
 Slide 11 	Clean Code					Martin
 Slide 12 	Clean Code					Martin
 Slide 13	Project	
@@ -232,3 +232,30 @@ Product owner take help from stake holder and development team to do grooming.
 Grooming can happen at any time before after or during sprint. Progressive Refinement
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Application Based Area
+
+Reasons to Reject a user Story
+	- Ambigous or not clear as to what they want , These are not testable
+	- Size is too big and lot of ands
+	- Technical Verbose not understood by product owner
+	- If it is not testable
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Responsibility 
+
+
+Product Owner 
+the product owner is the person who represents the customers or users wants and desires (goals and visions). The product owner is usually a key individual who may in many instances control the funding for the project to be developed, or if he or she doesn’t control funding, is responsible to those who do for delivering their visions in a way their return on investment is maximized.
+a product owner is the leader responsible for maximizing the value of the products created by a scrum development team.
+But to do this, an agile product owner takes on several roles, including business strategist, product designer, market analyst, customer liaison, and project manager.
+Roles and Responsibilities
+	- Defining Vision
+	- Managing Product Backlog and Prioritizing it 
+	- Prioritizing needs
+	- Overseeing development stages
+	- Anticipating Client Needs
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
