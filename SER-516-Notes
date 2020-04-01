@@ -87,3 +87,57 @@ Only difference between plan driven and Agile is detailed documentation
 
 
 
+
+
+Scrum Overview
+
+
+Scrum Roles
+	- Profuct Owner
+	- Scrum Master
+	- Development Team
+
+Scrum Framework
+	- Product Backlog Grooming 
+	- Sprint Planning
+	- Sprint Backlog
+	- Sprint Execution and Daily Scrum
+	- Potential shippable product increment
+	- Sprint Review
+	- Sprint Retrospective
+
+Overall the activity of creating and refining product backlog items, estimating them, and prioritizing them is known as grooming
+
+Daily Scrum
+What did I accomplish since the last daily scrum?
+􏰀What do I plan to work on by the next daily scrum?
+􏰀What are the obstacles or impediments that are preventing me from making progress?
+
+
+Whereas the sprint review is a time to inspect and adapt the product, 
+the sprint retrospective is an opportunity to inspect and adapt the process
+
+Sprint Review
+this activity is the conversation that takes place among its participants, which include the Scrum team, stakeholders, sponsors, customers, and interested members of other teams. The conversation is focused on reviewing the just-com- pleted features in the context of the overall development effort. Everyone in atten- dance gets clear visibility into what is occurring and has an opportunity to help guide the forthcoming development to ensure that the most business-appropriate solution is created.people outside the Scrum team can perform intra-sprint feature reviews and provide feedback to help the Scrum team better achieve its sprint goal.
+
+Sprint Retrospective
+During the sprint retrospective the development team, ScrumMaster, and product owner come together.to discuss what is and is not working with Scrum and associated technical practices. The focus is on the continuous process improvement necessary to help a good Scrum team become great. At the end of a sprint retrospective the Scrum team should have identified and committed to a practical number of process improvement actions that will be undertaken by the Scrum team in the next sprint. 
+
+
+Sprint Characteristic
+	- Time Boxed
+		- Responsibility (Complete what you defined)
+		- Capability (Learn about team)
+		- Motivation (Encourages to have the work done)
+		- Limiting WIP
+		- Forces Prioritization
+		- Avoid Perfectionism
+		- Motivates Closure
+		- Improved Predictability
+	- Short Duration
+		- Easy to Plan
+		- Bounded Error
+		- Excitement over time
+		- Checkpoint
+		- Fast Feedback
+		- ROI
