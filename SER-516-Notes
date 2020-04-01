@@ -164,7 +164,7 @@ We employ a strategy of progressive refinement to disaggregate, in a just-in-tim
 
 
 User Story Contains
-	- Small Requirment - As a user
+	- Small Requirement - As a user
 	- Tasks
 	- Acceptance Criteria
 
@@ -215,6 +215,17 @@ Types of Product BackLog Items
 		- Create a prototype or proof of concept of two architectures and run three tests to determine which would be a better approach for our product.
 
 User Stories consists (user stories), (testing/bug),(design,process stuff,deployment process), Knowledge Acquisition
+
+
+DEEP
+	D - Detailed Appropriately
+		- PBIs that we plan to work on soon should be near the top of the backlog, small in size, and very detailed so that they can be worked on in a near-term sprint
+	E - Emergent 
+		- constantly emerging, product owner must rebalance and reprioritize the product backlog, taking the new information into account
+	E - Estimated
+		- These size estimates need to be reasonably accurate with- out being overly precise. Because items near the top of the backlog are smaller and more detailed, they will have smaller, more accurate size estimates.
+	P - Prioritized
+		- useful to prioritize the near-term items that are destined for the next few sprints. Perhaps it is valuable to prioritize as far down in the backlog as we think we can get in Release 1. Going beyond that point at anything other than a gross level of prioritization is likely not worth our time.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
