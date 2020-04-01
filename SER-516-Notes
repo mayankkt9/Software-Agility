@@ -147,15 +147,56 @@ Sprint Characteristic
 		- Fast Feedback
 		- ROI
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Requirement and User Story
+
+Sequential
+With sequential product development, requirements are treated much as they are in manufacturing: They are required, nonnegotiable specifications to which the prod- uct must conform. These requirements are created up front and given to the develop- ment group in the form of a highly detailed document. It is the job of the development group, then, to produce a product that conforms to the detailed requirements.
+Sequential product development relies heavily on written requirements, which look impressive but can easily be misunderstood.
+With sequential product development all requirements must be at the same level of detail at the same time. 
+
+Scrum
+When using Scrum, we don’t invest a great deal of time and money in fleshing out the details of a requirement up front. Because we expect the specifics to change as time passes and as we learn more about what we are building, we avoid overinvesting in requirements that we might later discard. Instead of compiling a large inventory of detailed requirements up front, we create placeholders for the requirements, called product backlog items (PBIs). Each product backlog item repre- sents desirable business value
+A way to better ensure that the desired features are being built is for the peo- ple who know what they want to have timely conversations with the people who are designing, building, and testing those features.
+We employ a strategy of progressive refinement to disaggregate, in a just-in-time fashion, large, lightly detailed requirements into a set of smaller, more detailed items.
 
 
 
+User Story Contains
+	- Small Requirment - As a user
+	- Tasks
+	- Acceptance Criteria
+
+Scrum 
+	- Timely Converstion
+	- Progressive Refinement
+
+Story Size 
+	- Epic 
+		- The largest would be stories that are a few to many months in size and might span an entire release or mul- tiple releases. Many people refer to these as epics
+	- Features 
+		- those that are often on the order of weeks in size and therefore too big for a single sprint. Some teams might call these features
+	- Stories
+		- These are small enough for sprint that obeys INVEST
+	- Theme 
+		- refer to a collection of related stories.Themes provide a convenient way to say that a bunch of stories have something in common, such as being in the same functional area
+
+Tasks are the layer below stories, typically worked on by only one person, or per- haps a pair of people. Tasks typically require hours to perform. When we go to the task layer, we are specifying how to build something instead of what to build 
+Epics - Useful for Progressive Refinement
 
 
+User Story 
+I - goal is not to eliminate but to reduce interdependencies
+N - should be about what and why not how
+V - Not be technical, should have value that can be understood by product owner to prioritize them
+E - Not be ambigouis and must be estimable (Size, effort and cost)
+S - Small enought complete in one sprint
+T - either pass or fail (Acceptance Criteria)
 
-
-
-
+If very technical product owner will not be able to understand it and prioritize it.
+business value of any technical story has to be justifiable to the product owner. Because product owners think in economic terms, there needs to be an economic justification for doing this prototyping work
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Product Backlog
@@ -176,3 +217,4 @@ Types of Product BackLog Items
 User Stories consists (user stories), (testing/bug),(design,process stuff,deployment process), Knowledge Acquisition
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
