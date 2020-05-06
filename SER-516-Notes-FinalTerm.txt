@@ -1,0 +1,15 @@
+Final Term
+
+Slide 17	Clean Design II (2 Vid)
+Slide 20,22	Structural Metrics (2 Vid)
+Slide 25	Technical Debt(1 Vid)
+
+
+Topics Sepecifics to Final Term 
+
+Estimation and Velocity
+Clean Design I, II
+Structural Metrics I, II, III
+Technical Debt
+
+Revise whole Mid Term Syllabus 

@@ -30,6 +30,22 @@ Slide 14	Project
 Slide 15	Clean Design I				Martin(11)
 Slide 16	Estimaton & Velocity		Rubin(7) 		Done
 
+Final Term
+
+Slide 17	Clean Design II (2 Vid)
+Slide 20,22	Structural Metrics (2 Vid)
+Slide 25	Technical Debt(1 Vid)
+
+
+Topics Sepecifics to Final Term
+
+Estimation and Velocity
+Clean Design I, II
+Structural Metrics I, II, III
+Technical Debt
+
+
+
 Project
 
 
