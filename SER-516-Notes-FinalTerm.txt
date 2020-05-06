@@ -25,3 +25,7 @@ Three Design Pattern and their class Diagram
 	- Factory (Product Client)
 
 Dependency Injection - Nothing but using or Association
+
+Low Coupling 
+	- Lowest amount of lines connecting things
+	- Association better than composition
