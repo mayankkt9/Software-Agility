@@ -47,15 +47,14 @@ Problems discussed for class diagrams
 	- Check if diamond or arrows are placed in correct direction,
 	- Check if there are arrows or diamonds or just a line,
 	- Loops are bad,
-	- Sometimes think in terms of Model View Controller and what each class is.
+	- Think in terms of Model View Controller and what each class is and then decide.
 	- Check if diamond is really required.
 	- Association is better than composition
 
 
 Structure Metrics I,II,III
 
-
-Kent Beck's Rules for design
+How can we achieve these design principle
 - Write Test
 - Eliminate Duplication
 - Ensure Expressiveness
@@ -74,3 +73,20 @@ Three Metrics
 		- X->Y Y instability should be less
 		- X->Y Y abstraction should be more
 		- D = A + I - 1 Calculate - |D|
+		- Ce - Output, Ca - Input
+
+
+Technical Debt
+Types
+	- Naive
+	- Unavoidable
+	- Strategic
+Consequences 
+	- Unpredictable Tipping Point
+	- Increased time to delivery
+	- Defects
+	- Cost of Change
+	- Product Atrophy
+	- Decreased Predictability
+	- Under Performance
+	- Frustation
