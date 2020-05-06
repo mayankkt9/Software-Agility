@@ -36,4 +36,4 @@ Three Key Idea for Good Code
 Too much Coupling will result in too much communication b/w team member that is bad.
 
 Problems discussed for class diagrams 
-	- 
+	- Check if diamond or arrows are placed correctly
