@@ -17,7 +17,7 @@ Revise whole Mid Term Syllabus
 
 
 
-Clean Design
+Clean Design I, II
 
 Three Design Pattern and their class Diagram
 	- Observer (Mouse Listeners)
@@ -26,7 +26,7 @@ Three Design Pattern and their class Diagram
 
 when we want to share data between two modules good to use Observer Pattern
 
-Three Key Idea for Design Principle
+Kent Beck's Key Idea for Design Principle
 	- Dependency Injection 
 		- Nothing but using or Association
 	- Seperation of Concern
@@ -34,6 +34,7 @@ Three Key Idea for Design Principle
 	-	Low Coupling 
 		- Lowest amount of lines connecting things
 		- Association better than composition
+	- Readability
 
 Too much Coupling will result in too much communication b/w team member that is bad.
 
@@ -43,3 +44,14 @@ Problems discussed for class diagrams
 	- Loops are bad,
 	- Sometimes think in terms of Model View Controller and what each class is.
 	- Check if diamond is really required.
+	- Association is better than composition
+
+
+Structure Metrics I,II,III
+
+
+Kent Beck's Rules for design
+- Write Test
+- Eliminate Duplication
+- Ensure Expressiveness
+- Minimize number of items
