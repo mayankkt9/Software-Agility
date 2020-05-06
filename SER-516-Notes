@@ -17,18 +17,24 @@ Material
 Slide 2		Process Model & Agile		Som(2,3)		Done
 Slide 3 	Agile and Project			Som(3,4) 		Done
 Slide 4 	Agile and Project			Som(3,4)		Done
-Slide 5		Clean Code					Martin
-Slide 6		Clean Code					Martin
+Slide 5		Clean Code					Martin 			Done
+Slide 6		Clean Code					Martin 			Done
 Slide 7		PBI | User Story			Rubin(5,6)		Done
 Slide 8 	User Story					Rubin(4)		Done
 Slide 9		Product Backlog				Rubin(6)		Done
 Slide 10	Sprint						Rubin(4)		Done
-Slide 11 	Clean Code					Martin
-Slide 12 	Clean Code					Martin
+Slide 11 	Clean Code					Martin 			Done
+Slide 12 	Clean Code					Martin 			Done
 Slide 13	Project	
 Slide 14	Project
 Slide 15	Clean Design				Martin(11)
-Slide 16	Velocity					Rubin(7)
+Slide 16	Estimaton & Velocity		Rubin(7) 		Done
+
+Final Term
+
+Slide 17	Clean Design II (2 Vid)
+Slide 20	Structural Metrics (2 Vid)
+
 
 Project
 
@@ -98,7 +104,7 @@ Scrum Overview
 
 
 Scrum Roles
-	- Profuct Owner
+	- Product Owner
 	- Scrum Master
 	- Development Team
 
@@ -123,7 +129,7 @@ Whereas the sprint review is a time to inspect and adapt the product,
 the sprint retrospective is an opportunity to inspect and adapt the process
 
 Sprint Review
-this activity is the conversation that takes place among its participants, which include the Scrum team, stakeholders, sponsors, customers, and interested members of other teams. The conversation is focused on reviewing the just-com- pleted features in the context of the overall development effort. Everyone in atten- dance gets clear visibility into what is occurring and has an opportunity to help guide the forthcoming development to ensure that the most business-appropriate solution is created.people outside the Scrum team can perform intra-sprint feature reviews and provide feedback to help the Scrum team better achieve its sprint goal.
+this activity is the conversation that takes place among its participants, which include the Scrum team, stakeholders, sponsors, customers, and interested members of other teams. The conversation is focused on reviewing the just-com- pleted features in the context of the overall development effort. Everyone in attendance gets clear visibility into what is occurring and has an opportunity to help guide the forthcoming development to ensure that the most business-appropriate solution is created.people outside the Scrum team can perform intrasprint feature reviews and provide feedback to help the Scrum team better achieve its sprint goal.
 
 Sprint Retrospective
 During the sprint retrospective the development team, ScrumMaster, and product owner come together.to discuss what is and is not working with Scrum and associated technical practices. The focus is on the continuous process improvement necessary to help a good Scrum team become great. At the end of a sprint retrospective the Scrum team should have identified and committed to a practical number of process improvement actions that will be undertaken by the Scrum team in the next sprint. 
@@ -152,13 +158,13 @@ Sprint Characteristic
 Requirement and User Story
 
 Sequential
-With sequential product development, requirements are treated much as they are in manufacturing: They are required, nonnegotiable specifications to which the prod- uct must conform. These requirements are created up front and given to the develop- ment group in the form of a highly detailed document. It is the job of the development group, then, to produce a product that conforms to the detailed requirements.
+With sequential product development, requirements are treated much as they are in manufacturing: They are required, nonnegotiable specifications to which the product must conform. These requirements are created up front and given to the development group in the form of a highly detailed document. It is the job of the development group, then, to produce a product that conforms to the detailed requirements.
 Sequential product development relies heavily on written requirements, which look impressive but can easily be misunderstood.
 With sequential product development all requirements must be at the same level of detail at the same time. 
 
 Scrum
 When using Scrum, we don’t invest a great deal of time and money in fleshing out the details of a requirement up front. Because we expect the specifics to change as time passes and as we learn more about what we are building, we avoid overinvesting in requirements that we might later discard. Instead of compiling a large inventory of detailed requirements up front, we create placeholders for the requirements, called product backlog items (PBIs). Each product backlog item repre- sents desirable business value
-A way to better ensure that the desired features are being built is for the peo- ple who know what they want to have timely conversations with the people who are designing, building, and testing those features.
+A way to better ensure that the desired features are being built is for the people who know what they want to have timely conversations with the people who are designing, building, and testing those features.
 We employ a strategy of progressive refinement to disaggregate, in a just-in-time fashion, large, lightly detailed requirements into a set of smaller, more detailed items.
 
 
@@ -214,6 +220,7 @@ Types of Product BackLog Items
 	- Knowledge Acquisition 
 		- Create a prototype or proof of concept of two architectures and run three tests to determine which would be a better approach for our product.
 
+
 User Stories consists (user stories), (testing/bug),(design,process stuff,deployment process), Knowledge Acquisition
 
 
@@ -259,3 +266,26 @@ Roles and Responsibilities
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+Clean Code Principle
+	- Readability (Code guideline)
+	- Simplicity and Specification (KISS)
+	- Avoid Code Bloat (DRY)
+	- Decoupling (LOD)
+
+Use Comments
+	- Explanation of Intent
+	- Clarification of Code
+	- Warning of Consequences 
+
+Application to reject code 
+	- Superficial Comments or Redundant Comment
+	- Not meaningful variablename
+	- Indentation
+	- Final Variable instead of initializing random value somewhere
+	- Commented Code Remove
+	- DRY (Nested Try Catch)
+	- DRY (Main method having run method)
+	- CamelCase Variable name
+	- 2 classes in a file
