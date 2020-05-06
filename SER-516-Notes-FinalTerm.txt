@@ -90,3 +90,8 @@ Consequences
 	- Decreased Predictability
 	- Under Performance
 	- Frustation
+
+Managing technical debt 
+	- Managing the accural of tech debt
+	- Making tech debt visible 
+	- Servicing or repaying tech debt

@@ -244,7 +244,10 @@ DEEP
 	P - Prioritized
 		- useful to prioritize the near-term items that are destined for the next few sprints. Perhaps it is valuable to prioritize as far down in the backlog as we think we can get in Release 1. Going beyond that point at anything other than a gross level of prioritization is likely not worth our time.
 
-Grooming - creating and refining (adding details to) PBIs, estimating PBIs, and prioritizing PBIs.
+Grooming 
+	- creating and refining (adding details to) PBIs, 
+	- estimating PBIs, and 
+	- prioritizing PBIs.
 Product owner take help from stake holder and development team to do grooming.
 Grooming can happen at any time before after or during sprint. Progressive Refinement
 
@@ -283,6 +286,18 @@ Clean Code Principle
 	- Simplicity and Specification (KISS)
 	- Avoid Code Bloat (DRY)
 	- Decoupling (LOD)
+
+Characteristic/Features of Clean Coding
+	- Naming Convention
+	- LOC in method
+	- Avoid self explanatory comments
+	- Indentation
+	- Use association over composition
+	- Use composition over inheritence
+	- Modularity
+	- Extensible
+	- Testable
+	- Well Structured
 
 Use Comments
 	- Explanation of Intent
