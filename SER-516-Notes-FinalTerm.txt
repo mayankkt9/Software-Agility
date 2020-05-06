@@ -5,10 +5,10 @@ Slide 20,22	Structural Metrics (2 Vid)
 Slide 25	Technical Debt(1 Vid)
 
 
-Topics Sepecifics to Final Term 
+Topics Sepecifics to Final Term 		Status
 
 Estimation and Velocity
-Clean Design I, II
+Clean Design I, II 						Done
 Structural Metrics I, II, III
 Technical Debt
 
@@ -38,8 +38,8 @@ Three Key Idea for Design Principle
 Too much Coupling will result in too much communication b/w team member that is bad.
 
 Problems discussed for class diagrams 
-	- Check if diamond or arrows are placed correctly,
+	- Check if diamond or arrows are placed in correct direction,
 	- Check if there are arrows or diamonds or just a line,
 	- Loops are bad,
 	- Sometimes think in terms of Model View Controller and what each class is.
-	- 
+	- Check if diamond is really required.
