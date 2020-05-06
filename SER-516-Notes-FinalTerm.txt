@@ -13,3 +13,15 @@ Structural Metrics I, II, III
 Technical Debt
 
 Revise whole Mid Term Syllabus 
+
+
+
+
+Clean Design
+
+Three Design Pattern and their class Diagram
+	- Observer (Mouse Listeners)
+	- Delegator (Professor TA Example)
+	- Factory (Product Client)
+
+Dependency Injection - Nothing but using or Association
