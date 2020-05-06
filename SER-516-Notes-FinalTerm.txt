@@ -7,10 +7,10 @@ Slide 25	Technical Debt(1 Vid)
 
 Topics Sepecifics to Final Term 		Status
 
-Estimation and Velocity
+Estimation and Velocity 				Done
 Clean Design I, II 						Done
-Structural Metrics I, II, III
-Technical Debt
+Structural Metrics I, II, III			Done
+Technical Debt							Done
 
 Revise whole Mid Term Syllabus 
 
@@ -69,4 +69,3 @@ Three Metrics
 		- X->Y Y instability should be less
 		- X->Y Y abstraction should be more
 		- D = A + I - 1 Calculate - |D|
-		
