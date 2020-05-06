@@ -81,9 +81,9 @@ Types of Process Model
 	- Waterfall
 
 Incremental Model - There are some types of system where incremental development and delivery is
-not the best approach. These are very large systems where development may involve teams working in different locations, some embedded systems where the software depends on hardware development and some critical systems where all the require- ments must be analyzed to check for interactions that may compromise the safety or security of the system.
+not the best approach. These are very large systems where development may involve teams working in different locations, some embedded systems where the software depends on hardware development and some critical systems where all the requirements must be analyzed to check for interactions that may compromise the safety or security of the system.
 
-These plan-driven approaches involve a significant overhead in planning, designing, and document- ing the system. This overhead is justified when the work of multiple development teams has to be coordinated, when the system is a critical system, and when many different people will be involved in maintaining the software over its lifetime.
+These plan-driven approaches involve a significant overhead in planning, designing, and documenting the system. This overhead is justified when the work of multiple development teams has to be coordinated, when the system is a critical system, and when many different people will be involved in maintaining the software over its lifetime.
 
 Agile Manifesto
 Individuals and interactions over processes and tools 
@@ -93,12 +93,12 @@ Responding to change over following a plan
 
 Agile methods have been very successful for some types of system development:
 1. Product development where a software company is developing a small or medium-sized product for sale.
-2. Custom system development within an organization, where there is a clear com- mitment from the customer to become involved in the development process and where there are not a lot of external rules and regulations that affect the software.
+2. Custom system development within an organization, where there is a clear commitment from the customer to become involved in the development process and where there are not a lot of external rules and regulations that affect the software.
 Formal documentation is supposed to describe the system and so make it easier
-for people changing the system to understand. In practice, however, formal docu- mentation is often not kept up to date and so does not accurately reflect the program code. For this reason, agile methods enthusiasts argue that it is a waste of time to write this documentation and that the key to implementing maintainable software is to produce high-quality, readable code. Agile practices therefore emphasize the importance of writing well-structured code and investing effort in code improve- ment. Therefore, the lack of documentation should not be a problem in maintaining systems developed using an agile approach.
+for people changing the system to understand. In practice, however, formal documentation is often not kept up to date and so does not accurately reflect the program code. For this reason, agile methods enthusiasts argue that it is a waste of time to write this documentation and that the key to implementing maintainable software is to produce high-quality, readable code. Agile practices therefore emphasize the importance of writing well-structured code and investing effort in code improvement. Therefore, the lack of documentation should not be a problem in maintaining systems developed using an agile approach.
 
 
-In a plan-driven approach, iteration occurs within activities with formal documents used to communicate between stages of the process. For example, the require- ments will evolve and, ultimately, a requirements specification will be produced. This is then an input to the design and implementation process. In an agile approach, iteration occurs across activities. Therefore, the requirements and the design are developed together, rather than separately.
+In a plan-driven approach, iteration occurs within activities with formal documents used to communicate between stages of the process. For example, the requirements will evolve and, ultimately, a requirements specification will be produced. This is then an input to the design and implementation process. In an agile approach, iteration occurs across activities. Therefore, the requirements and the design are developed together, rather than separately.
 
 
 Only difference between plan driven and Agile is detailed documentation
@@ -139,7 +139,7 @@ Whereas the sprint review is a time to inspect and adapt the product,
 the sprint retrospective is an opportunity to inspect and adapt the process
 
 Sprint Review
-this activity is the conversation that takes place among its participants, which include the Scrum team, stakeholders, sponsors, customers, and interested members of other teams. The conversation is focused on reviewing the just-com- pleted features in the context of the overall development effort. Everyone in attendance gets clear visibility into what is occurring and has an opportunity to help guide the forthcoming development to ensure that the most business-appropriate solution is created.people outside the Scrum team can perform intrasprint feature reviews and provide feedback to help the Scrum team better achieve its sprint goal.
+this activity is the conversation that takes place among its participants, which include the Scrum team, stakeholders, sponsors, customers, and interested members of other teams. The conversation is focused on reviewing the just completed features in the context of the overall development effort. Everyone in attendance gets clear visibility into what is occurring and has an opportunity to help guide the forthcoming development to ensure that the most business-appropriate solution is created. People outside the Scrum team can perform intra-sprint feature reviews and provide feedback to help the Scrum team better achieve its sprint goal.
 
 Sprint Retrospective
 During the sprint retrospective the development team, ScrumMaster, and product owner come together.to discuss what is and is not working with Scrum and associated technical practices. The focus is on the continuous process improvement necessary to help a good Scrum team become great. At the end of a sprint retrospective the Scrum team should have identified and committed to a practical number of process improvement actions that will be undertaken by the Scrum team in the next sprint. 
