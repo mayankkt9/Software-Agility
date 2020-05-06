@@ -173,7 +173,7 @@ Sequential product development relies heavily on written requirements, which loo
 With sequential product development all requirements must be at the same level of detail at the same time. 
 
 Scrum
-When using Scrum, we don’t invest a great deal of time and money in fleshing out the details of a requirement up front. Because we expect the specifics to change as time passes and as we learn more about what we are building, we avoid overinvesting in requirements that we might later discard. Instead of compiling a large inventory of detailed requirements up front, we create placeholders for the requirements, called product backlog items (PBIs). Each product backlog item repre- sents desirable business value
+When using Scrum, we don’t invest a great deal of time and money in fleshing out the details of a requirement up front. Because we expect the specifics to change as time passes and as we learn more about what we are building, we avoid overinvesting in requirements that we might later discard. Instead of compiling a large inventory of detailed requirements up front, we create placeholders for the requirements, called product backlog items (PBIs). Each product backlog item represents desirable business value
 A way to better ensure that the desired features are being built is for the people who know what they want to have timely conversations with the people who are designing, building, and testing those features.
 We employ a strategy of progressive refinement to disaggregate, in a just-in-time fashion, large, lightly detailed requirements into a set of smaller, more detailed items.
 
@@ -230,6 +230,11 @@ Types of Product BackLog Items
 	- Knowledge Acquisition 
 		- Create a prototype or proof of concept of two architectures and run three tests to determine which would be a better approach for our product.
 
+Based on size
+	- User Story
+	- Feature
+	- Theme
+	- Epic
 
 User Stories consists (user stories), (testing/bug),(design,process stuff,deployment process), Knowledge Acquisition
 
