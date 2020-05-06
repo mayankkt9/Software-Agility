@@ -55,3 +55,18 @@ Kent Beck's Rules for design
 - Eliminate Duplication
 - Ensure Expressiveness
 - Minimize number of items
+
+
+Three Metrics 
+	- Acyclic Dependency Principle
+		- More the loop bad the design
+		- Loop is fine if it has a justification
+	- Stable Abstract Principle 
+		- More stable more abstract it should be 
+		- Stablility means hard to change
+		- Instability of 1 is best
+	- Stable Dependency Principle
+		- X->Y Y instability should be less
+		- X->Y Y abstraction should be more
+		- D = A + I - 1 Calculate - |D|
+		
