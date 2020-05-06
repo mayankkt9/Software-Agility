@@ -15,6 +15,11 @@ Technical Debt							Done
 Revise whole Mid Term Syllabus 
 
 
+Estimation and Velocity 
+	- Velocity = Story Points / Sprint
+	- Sprint  = Size of Project 4 / Avg Velocity of P2 and P3
+
+
 
 
 Clean Design I, II
