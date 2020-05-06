@@ -5,7 +5,7 @@ Slide 20,22	Structural Metrics (2 Vid)
 Slide 25	Technical Debt(1 Vid)
 
 
-Topics Sepecifics to Final Term 		Status
+Topics Sepecific to Final Term 		Video-Status	Slide-Status
 
 Estimation and Velocity 				Done
 Clean Design I, II 						Done
