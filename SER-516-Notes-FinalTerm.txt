@@ -24,7 +24,9 @@ Three Design Pattern and their class Diagram
 	- Delegator (Professor TA Example)
 	- Factory (Product Client)
 
-Three Key Idea for Good Code
+when we want to share data between two modules good to use Observer Pattern
+
+Three Key Idea for Design Principle
 	- Dependency Injection 
 		- Nothing but using or Association
 	- Seperation of Concern
@@ -39,3 +41,5 @@ Problems discussed for class diagrams
 	- Check if diamond or arrows are placed correctly,
 	- Check if there are arrows or diamonds or just a line,
 	- Loops are bad,
+	- Sometimes think in terms of Model View Controller and what each class is.
+	- 
