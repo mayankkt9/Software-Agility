@@ -24,8 +24,16 @@ Three Design Pattern and their class Diagram
 	- Delegator (Professor TA Example)
 	- Factory (Product Client)
 
-Dependency Injection - Nothing but using or Association
+Three Key Idea for Good Code
+	- Dependency Injection 
+		- Nothing but using or Association
+	- Seperation of Concern
+		- Pattern
+	-	Low Coupling 
+		- Lowest amount of lines connecting things
+		- Association better than composition
 
-Low Coupling 
-	- Lowest amount of lines connecting things
-	- Association better than composition
+Too much Coupling will result in too much communication b/w team member that is bad.
+
+Problems discussed for class diagrams 
+	- 
