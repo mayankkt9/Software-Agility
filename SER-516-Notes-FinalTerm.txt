@@ -57,13 +57,14 @@ Structure Metrics I,II,III
 How can we achieve these design principle
 - Write Test
 	- drive to single responsibity DI and interface
-	- Minimized Cooupling
 	- Increases Cohesion and decreases Coupling
 	- Modularize
 	- Shrink Function
 	- Eliminate Fear of cleaning up code
 - Eliminate Duplication
 - Ensure Expressiveness
+	- Naming Convention
+	- Design pattern
 - Minimize number of items
 
 
