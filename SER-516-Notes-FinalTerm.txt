@@ -7,7 +7,7 @@ Slide 25	Technical Debt(1 Vid)
 
 Topics Sepecific to Final Term 		Video-Status	Slide-Status
 
-Estimation and Velocity 				Done
+Estimation and Velocity 				Done			
 Clean Design I, II 						Done
 Structural Metrics I, II, III			Done
 Technical Debt							Done
@@ -56,6 +56,12 @@ Structure Metrics I,II,III
 
 How can we achieve these design principle
 - Write Test
+	- drive to single responsibity DI and interface
+	- Minimized Cooupling
+	- Increases Cohesion and decreases Coupling
+	- Modularize
+	- Shrink Function
+	- Eliminate Fear of cleaning up code
 - Eliminate Duplication
 - Ensure Expressiveness
 - Minimize number of items
@@ -81,6 +87,14 @@ Types
 	- Naive
 	- Unavoidable
 	- Strategic
+
+How debt gets created 
+	- Bad design
+	- Defects
+	- Insufficient test coverage
+	- Excessive Manual Testing 
+	- Poor Integration Management
+	- Lack Of Platform Experience
 Consequences 
 	- Unpredictable Tipping Point
 	- Increased time to delivery

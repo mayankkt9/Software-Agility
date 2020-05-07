@@ -293,12 +293,7 @@ Clean Code Principle
 	- Decoupling (LOD)
 
 Characteristic/Features of Clean Coding
-	- Naming Convention
-	- LOC in method
-	- Avoid self explanatory comments
-	- Indentation
-	- Use association over composition
-	- Use composition over inheritence
+	- Maintainability
 	- Modularity
 	- Extensible
 	- Testable
