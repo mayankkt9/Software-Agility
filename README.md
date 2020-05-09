@@ -1,1 +1,3 @@
 ## Software Agility
+
+Notes
